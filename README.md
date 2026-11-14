@@ -2,7 +2,7 @@
 
 A short, interactive frontend website showcasing tourism in Pakistan, told from the people of Pakistan.
 
-**Live site: https://dawoodurrehman-david.github.io/pakistan-tourism/
+**Live site:**  https://dawoodurrehman-david.github.io/pakistan-tourism/
 
 ## Destinations
 
